@@ -6,7 +6,7 @@
 		gcc TraX_Server.c -o TraX_Server -lpthread
 		```
 2.   **Run the Server**:
-    ```bash
+   		```bash
 		./TraX_Server
 		```
     
